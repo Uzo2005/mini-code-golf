@@ -1,6 +1,7 @@
 ### Mini Code Golf
 A mini golf game with a source file of about 2.5kb. 
-Presented for Vjeux [Algorithm arena](https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf) week11
+Presented for Vjeux [Algorithm arena](https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf) week11.
+
 *The whole source file is in `main.nim`*
 
 #### Building From Source
